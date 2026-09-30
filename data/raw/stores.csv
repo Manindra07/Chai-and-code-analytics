@@ -1,0 +1,9 @@
+store_id,city,store_type,opened_year
+S01,Lucknow,Campus,2019
+S02,Lucknow,Mall,2021
+S03,Delhi,Campus,2018
+S04,Delhi,Street,2020
+S05,Pune,Mall,2022
+S06,Pune,Campus,2021
+S07,Jaipur,Street,2023
+S08,Indore,Street,2022
