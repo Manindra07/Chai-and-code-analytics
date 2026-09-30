@@ -1,8 +1,11 @@
 # Chai & Code: A Year of Cafe Orders, Cleaned, Explored and Explained
 
 **Author:** Manindra Shukla
+
 **Program:** Yuva Intern by Henry Harvin, Data Science Track (Project 2)
+
 **GitHub:** [github.com/Manindra07](https://github.com/Manindra07)
+
 **Email:** manindrashukla77@gmail.com
 
 ![Chai & Code at a glance](images/00_dashboard.png)
